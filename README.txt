@@ -24,5 +24,5 @@ Notes for SFZ Export:
 - The sfz file and wav files will be stored in the folder "sfz"
 - The sfz file will be named "export.sfz". You can use your computer's file manager to rename "export.sfz"
 - New sfz exports overwrite old ones. To save your sfz files, copy all of the contents of the "sfz" folder into another folder.
-
 - For more info on sfz files, visit https://sfzformat.com/
+
