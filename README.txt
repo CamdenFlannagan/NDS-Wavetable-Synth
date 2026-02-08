@@ -26,3 +26,5 @@ Notes for SFZ Export:
 - New sfz exports overwrite old ones. To save your sfz files, copy all of the contents of the "sfz" folder into another folder.
 - For more info on sfz files, visit https://sfzformat.com/
 
+Note for developers:
+I used https://libnds.devkitpro.org/ and https://github.com/knightfox75/nds_nflib. To be completely honest, I can't remember the setup process for these things. I would bring questions to this discord community if you're running into issues getting your development environment set up: https://wiki.ds-homebrew.com/community/discord-info
